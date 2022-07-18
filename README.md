@@ -7,9 +7,6 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGoulart0703&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-  
-
 
  
 <div> 
@@ -24,3 +21,4 @@
 </div>
 
  
+![Matrix Gifs](https://user-images.githubusercontent.com/108497242/179626683-844f4869-d1af-49fd-a29c-749057527117.gif)
