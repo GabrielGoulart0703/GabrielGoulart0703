@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGoulart0703&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
   
-https://user-images.githubusercontent.com/108497242/179625755-1167ccbc-1b8f-470e-b05e-19bb5559089e.gif)
+
 
  
 <div> 
