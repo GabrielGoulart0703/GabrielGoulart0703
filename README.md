@@ -1,12 +1,16 @@
-.Olá, meu nome é Gabriel O. Goulart, mas podem me chamar só  de Goulart!!
-.Sou Cristão e por tal modo de Viver, desejo poder desenvolver sites e programas mais acessiveis e fáceis para que qualquer um possa coneguir chegar onde precisa.
-.Atualmente estou cursando front-end pelo Senai em parceria com a empresa Energisa e também a Rio Pomba Valey.
+-Olá, meu nome é Gabriel O. Goulart, mas podem me chamar só  de Goulart!!
+
+-Sou Cristão e por tal modo de Viver, desejo poder desenvolver sites e programas mais acessiveis e fáceis para que qualquer um possa coneguir chegar onde precisa.
+
+-Atualmente estou cursando front-end pelo Senai em parceria com a empresa Energisa e também a Rio Pomba Valey.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGoulart0703&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
   
+https://user-images.githubusercontent.com/108497242/179625755-1167ccbc-1b8f-470e-b05e-19bb5559089e.gif)
+
  
 <div> 
    <a href="https://www.instagram.com/blessed_son_king/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
