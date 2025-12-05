@@ -1,8 +1,14 @@
--Olá, meu nome é Gabriel O. Goulart, mas podem me chamar só  de Goulart!!
+# Gabriel Goulart
 
--Sou Cristão e por tal modo de Viver, desejo poder desenvolver sites e programas mais acessiveis e fáceis para que qualquer um possa coneguir chegar onde precisa.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/108497242" alt="GabrielGoulart0703 Profile" height="250">
+</div>
 
--Atualmente estou cursando front-end pelo Senai em parceria com a empresa Energisa e também a Rio Pomba Valey.
+- Olá, meu nome é **Gabriel O. Goulart**, mas podem me chamar só de Goulart!!
+
+- Sou Cristão e por tal modo de Viver, desejo poder **desenvolver sites e programas** mais acessiveis e fáceis para que qualquer um possa coneguir chegar onde precisa.
+
+- Atualmente estou cursando **front-end** pelo _Senai_ em parceria com a empresa _Energisa_ e também a _Rio Pomba Valey_.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -16,7 +22,7 @@
   target="_blank"></a>
 <a href="https://app.slack.com/client/T03PJSEPYBH/C03PZCR6G8K"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/GabrielGoulart0703/GabrielGoulart0703/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/GabrielGoulart0703/GabrielGoulart0703/output/github-contribution-grid-snake.svg)
  
 </div>
 
